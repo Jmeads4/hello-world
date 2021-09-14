@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I'm Jacob, and I have a dog named Oreo
